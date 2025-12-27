@@ -56,11 +56,11 @@
 ---
 
 ###  Featured Projects
-- 🔹 IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone)
-- 🔹 Raspberry Pi Pico Serial Communication & FPS Protocol Expansion (SynTech Internship Project)
-- 🔹 Autonomous Navigation Robot using ROS 2 + OpenCV + Pure Pursuit Algorithm
-- 🔹 MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback
-- 🔹 Light-Controlled Stepper Motor using MSP430
+-  IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone)
+-  Raspberry Pi Pico Serial Communication & FPS Protocol Expansion (SynTech Internship Project)
+-  Autonomous Navigation Robot using ROS 2 + OpenCV + Pure Pursuit Algorithm
+-  MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback
+-  Light-Controlled Stepper Motor using MSP430
 
 ---
 
