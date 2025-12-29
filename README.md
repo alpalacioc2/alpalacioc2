@@ -1,6 +1,6 @@
 <h1 align="center">Hello World , I'm Alejandro Caro</h1>
 <h3 align="center">A Computer Engineering Student at Florida State University</h3>
-<h4 align="center">Currently working as a Test Engineer Intern @ SynTech | Embedded Systems & Robotics Enthusiast</h4>
+<h4 align="center">Currently working as an  Embedded Software Engineer Intern @ SynTech | Embedded Systems & Robotics Enthusiast</h4>
 
 ---
 
