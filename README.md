@@ -7,7 +7,7 @@
 ###  About Me
 -  Pursuing a B.S. in Computer Engineering with a focus in Robotics and Autonomous Navigation Systems at Florida State University
 -  Developing microcontroller-based systems using MSP432, Arduino & Raspberry Pi
--  Experience in motor control, sensors, ROS 2 navigation, low-level programming, and computer architecture
+-  Experience in motor controls, sensors, ROS 2 navigation, low-level programming, wireless communication protocols, and computer architecture
 -  Passionate about embedded firmware development, hardware integration and validation, automation technologies, and robotics-based autonomous navigation.
 ---
 
@@ -56,7 +56,7 @@
 ---
 
 ###  Featured Projects
--  IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone)
+-  IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone) -> https://github.com/alpalacioc2/ieee-southeastcon-hardware-competition-2026
 -  Raspberry Pi Pico Serial Communication & FPS Protocol Expansion (SynTech Internship Project)
 -  Autonomous Navigation Robot using ROS 2 + OpenCV + Pure Pursuit Algorithm
 -  MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback
