@@ -1,14 +1,22 @@
 <h1 align="center">Hello World , I'm Alejandro Caro</h1>
-<h3 align="center">A Computer Engineering Student at Florida State University</h3>
+<h3 align="center">A Senior Computer Engineering Student at Florida State University</h3>
 <h4 align="center">Currently working as an  Embedded Software Engineer Intern @ SynTech | Embedded Systems & Robotics Enthusiast</h4>
 
 ---
 
 ###  About Me
--  Pursuing a B.S. in Computer Engineering with a focus in Robotics and Autonomous Navigation Systems at Florida State University
--  Developing microcontroller-based systems using MSP432, Arduino & Raspberry Pi
--  Experience in motor controls, sensors, ROS 2 navigation, low-level programming, wireless communication protocols, and computer architecture
--  Passionate about embedded firmware development, hardware integration and validation, automation technologies, and robotics-based autonomous navigation.
+- Hello World! My name is Alejandro, and I am originally from Colombia. I am currently pursuing a Bachelor’s degree in Computer Engineering with a minor in Computer Science at Florida State University.
+
+I am passionate about building systems that bridge the gap between software and hardware. My interests lie in embedded systems, robotics, and low-level programming, where I design and develop efficient, end-to-end solutions, continuously refining them through iteration until they are fully realized.
+
+Throughout my academic journey and internship experiences, I have had the opportunity to work on a variety of hands-on engineering projects. These include competing in the IEEE SoutheastCon 2026 Hardware Competition, developing firmware for product lines, building autonomous robots using ROS 2, and implementing bare-metal embedded systems for robotic applications such as maze navigation and time-constrained task execution.
+
+These experiences have helped me build a strong foundation in hardware design, software development, and system integration. I am always eager to learn, take on new challenges, and continue growing as an engineer.
+
+Outside of school and work, I enjoy traveling, exploring new places with my dog and family, playing ping pong, and staying active at the gym.
+
+
+
 ---
 
 ###  Languages & Tools
@@ -59,8 +67,10 @@
 -  IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone) -> https://github.com/alpalacioc2/ieee-southeastcon-hardware-competition-2026
 -  Raspberry Pi Pico Serial Communication & FPS Protocol Expansion (SynTech Internship Project)
 -  Autonomous Navigation Robot using ROS 2 + OpenCV + Pure Pursuit Algorithm
--  MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback
+-  MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback and PID Controller
+-  
 -  Light-Controlled Stepper Motor using MSP430
+-  
 
 ---
 
