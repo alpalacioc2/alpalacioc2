@@ -4,7 +4,7 @@
 
 ---
 
-###  About Me
+###  My Story
 Hello World! My name is Alejandro, and I am originally from Colombia. I am currently pursuing a Bachelor’s degree in Computer Engineering with a minor in Computer Science at Florida State University.
 
 I am passionate about building systems that bridge the gap between software and hardware. My interests lie in embedded systems, robotics, and low-level programming, where I design and develop efficient, end-to-end solutions, continuously refining them through iteration until they are fully realized.
