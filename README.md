@@ -2,7 +2,7 @@
 
 <h3 align="center">Bachelor of Science in Computer Engineering | Embedded Systems & Robotics Engineer</h3>
 
-<h4 align="center">Former Embedded Software Engineer Intern @ SynTech Systems</h4>
+<h4 align="center">Former Embedded Software Test Engineer Intern @ SynTech Systems</h4>
 
 ---
 
