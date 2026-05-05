@@ -7,15 +7,15 @@
 ---
 
 ###  My Story
-Hello World! My name is Alejandro, and I am originally from Colombia. I am currently pursuing a Bachelor’s degree in Computer Engineering with a minor in Computer Science and Mathematics at Florida State University.
+Hello, World! My name is Alejandro, and I am originally from Colombia. I recently graduated from Florida State University with a Bachelor of Science in Computer Engineering, along with minors in Computer Science and Mathematics.
 
-I am passionate about building systems that bridge the gap between software and hardware. My interests lie in embedded systems, robotics, and low-level programming, where I design and develop efficient, end-to-end solutions, continuously refining them through iteration until they are fully realized.
+I have a passion for building systems that bridge the gap between software and hardware. My interests include embedded systems, robotics, and low-level programming. I strive to design and develop efficient, end-to-end solutions, constantly refining them through iteration until they are fully realized.
 
-Throughout my academic journey and internship experiences, I have had the opportunity to work on a variety of hands-on engineering projects. These include competing in the IEEE SoutheastCon 2026 Hardware Competition, developing firmware for product lines, building autonomous robots using ROS 2, and implementing bare-metal embedded systems for robotic applications such as maze navigation and time-constrained task execution.
+Throughout my academic journey and internship experiences, I have had the opportunity to work on a variety of hands-on engineering projects. These experiences include competing in the IEEE SoutheastCon 2026 Hardware Competition, developing firmware for product lines, building autonomous robots using ROS 2, and implementing bare-metal embedded systems for robotic applications such as maze navigation and time-constrained task execution.
 
-These experiences have helped me build a strong foundation in hardware design, software development, and system integration. I am always eager to learn, take on new challenges, and continue growing as an engineer.
+These projects have helped me build a strong foundation in hardware design, software development, and system integration. I am always eager to learn, take on new challenges, and continue growing as an engineer.
 
-Outside of school and work, I enjoy traveling, exploring new places with my dog and family, playing ping pong, and staying active at the gym.
+Outside of school and work, I enjoy traveling, exploring new places with my dog and family, playing ping pong, and staying active at the gym
 
 
 
