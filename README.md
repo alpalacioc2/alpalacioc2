@@ -30,7 +30,7 @@ C, C++, Python, Java, Kotlin, ARM/MIPS Assembly
 ARM Cortex-M, MSP432, Embedded Linux, Verilog, VHDL, UART, I2C, SPI  
 
 **Tools & Platforms:**  
-Git, Linux, MATLAB, Quartus Prime, PyCharm, Jira, Bitbucket, ROS 2-ROS2Controller, Cmake, OpenCV, SLAM, NAV2
+Git, Linux, MATLAB, Quartus Prime, PyCharm, Jira, Bitbucket, ROS 2-ROS2Controller, CMake, OpenCV, SLAM, NAV2
 
 **Languages:**  
 English (Fluent), Spanish (Native)  
