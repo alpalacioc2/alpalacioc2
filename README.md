@@ -65,12 +65,11 @@ Outside of school and work, I enjoy traveling, exploring new places with my dog 
 
 ###  Featured Projects
 -  IEEE SoutheastCon Hardware Competition 2026 (Senior Design Capstone) -> https://github.com/alpalacioc2/ieee-southeastcon-hardware-competition-2026
+-  Autonomous Navigation Robot using Camera Module 2 with ROS 2 + OpenCV + Pure Pursuit Algorithm -> https://github.com/alpalacioc2/autonomous-robot-project
+-  Bare Metal Coding - MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback and PID Controller -> https://github.com/alpalacioc2/baremetal-maze-robot
+-  Light-Controlled Stepper Motor using MSP430 -> https://github.com/alpalacioc2/Light-Sensitive-Stepper-Motor-Control-with-Display-Feedback
 -  Raspberry Pi Pico Serial Communication & FPS Protocol Expansion (SynTech Internship Project)
--  Autonomous Navigation Robot using ROS 2 + OpenCV + Pure Pursuit Algorithm
--  MSP432 & RSLK MAX Maze-Following Robot with PWM & Encoder Feedback and PID Controller
--  
--  Light-Controlled Stepper Motor using MSP430
--  
+  
 
 ---
 
